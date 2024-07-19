@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Classificação do Campeonato Mineiro de Futebol</title>
+</head>
+<body>
+    <table class="classificacao">
+        <thead>
+            <tr>
+                <th>Classificação</th>
+                <th>Clube</th>
+                <th>Pontos</th>
+                <th>SG</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Tombense</td>
+                <td>27</td>
+                <td>16</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Caldense</td>
+                <td>22</td>
+                <td>8</td>
+            </tr> 
+            <tr>
+                <td>3</td>
+                <td>Uberlândia</td>
+                <td>20</td>
+                <td>7</td>
+            </tr>
+            <!-- Nicollas -->
+        </tbody>
+    </table>
+</body>
+</html>
